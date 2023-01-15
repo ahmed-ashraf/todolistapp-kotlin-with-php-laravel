@@ -19,6 +19,7 @@ Note: Integration and unit testing for the whole android app is implemented.
 4. Show statistic of my tasks
 5. Delete completed tasks
 6. Edit task
+7. Filter tasks
  
  # Screenshots
  
