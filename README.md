@@ -10,6 +10,7 @@ Note: Integration and unit testing for the whole android app is implemented.
 1. Add task
 2. Delete task
 3. Mark task as completed
+4. View task details
 
 ### Android app features
 
@@ -20,6 +21,7 @@ Note: Integration and unit testing for the whole android app is implemented.
 5. Delete completed tasks
 6. Edit task
 7. Filter tasks
+8. View task details
  
  # Screenshots
  
