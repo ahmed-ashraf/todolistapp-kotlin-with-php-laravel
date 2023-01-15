@@ -1,8 +1,9 @@
 # This repo contains two projects
  
  1. Android app ToDo list with kotlin.
- 
  2. Laravel backend and frontend ToDo list app.
+
+Note: Integration and unit testing for the whole android app is implemented.
  
  # Screenshots
  
@@ -12,3 +13,18 @@
  <img src="https://user-images.githubusercontent.com/19362719/212543589-881635dc-a3a3-4f3a-b6a2-436361dd3884.png" width="250">
  
  <img src="https://user-images.githubusercontent.com/19362719/212543783-889c24b0-22c1-4bb4-994a-b4e9731f934c.png" width="1000">
+
+### Web features
+
+1. Add task
+2. Delete task
+3. Mark task as completed
+
+### Android app features
+
+1. Add task
+2. Delete task
+3. Mark task as completed
+4. Show statistic of my tasks
+5. Delete completed tasks
+6. Edit task
